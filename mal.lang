@@ -129,7 +129,9 @@
 			<keyword>sb</keyword>
 			<keyword>add(\.s)?</keyword>
 			<keyword>addi(\.s)?</keyword>
+			<keyword>addu(\.s)?</keyword>
 			<keyword>sub(\.s)?</keyword>
+			<keyword>subu(\.s)?</keyword>
 			<keyword>mul(\.s)?</keyword>
 			<keyword>div(\.s)?</keyword>
 			<keyword>rem</keyword>
