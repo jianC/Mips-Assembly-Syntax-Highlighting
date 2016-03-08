@@ -188,6 +188,7 @@
 			<keyword>asciiz</keyword>
 			<keyword>ascii</keyword>
 			<keyword>float</keyword>
+			<keyword>space</keyword>
                 </context>         
             </include>
         </context>
